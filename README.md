@@ -8,3 +8,6 @@ For this challenge I had to refactor code for a marketing agency to make there w
 - Image elemets have accessible alt attributes
 - Heading attributes fall in sequential order
 - A concise, descriptive title
+
+![alt_text] (assets/images/_C__Users_micha_Documents_Horiseon-Challenge-_index.html.png)
+
