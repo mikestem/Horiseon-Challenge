@@ -9,5 +9,5 @@ For this challenge I had to refactor code for a marketing agency to make there w
 - Heading attributes fall in sequential order
 - A concise, descriptive title
 
-![screenshot] (_C__Users_micha_Documents_Horiseon-Challenge-_index.html.png)
+![screenshot](./assets/images/Horiseon%20Screenshot.png)
 
