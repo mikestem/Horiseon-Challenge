@@ -33,4 +33,9 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
+# Installation
+A new repository was created and cloned onto my local computer. 
+
+# Usage
+Use the navigation bar at the top of the page to jump to the different services for Horiseon. 
 
