@@ -36,6 +36,12 @@ THEN I find a concise, descriptive title
 # Installation
 A new repository was created and cloned onto my local computer. 
 
+
 # Usage
 Use the navigation bar at the top of the page to jump to the different services for Horiseon. 
 
+# Links
+```
+Visit the completed website at: https://mikestem.github.io/Horiseon-Challenge/
+Visit the Github repository at: https://github.com/mikestem/Horiseon-Challenge.git
+```
